@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-03 18:02:30,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-04 05:45:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -646,4 +646,7 @@ CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-1.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-6.ctv
+汕头经济,https://t.freetv.fun/live/shan-tou-jing-ji-3.m3u8
+汕头经济,https://t.freetv.fun/live/shan-tou-jing-ji-2.m3u8
+汕头经济,https://t.freetv.fun/live/shan-tou-jing-ji-1.m3u8
 茂名综合,https://hls-gateway.vpstv.net/streams/708982.m3u8
