@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/JoePx/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-06-22 22:50:51
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-06-23 06:55:10
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1289,3 +1289,4 @@ https://t.freetv.fun/live/shan-tou-jing-ji-2.m3u8
 https://t.freetv.fun/live/shan-tou-jing-ji-1.m3u8
 #EXTINF:-1 tvg-name="茂名综合" tvg-logo="茂名综合.png" group-title="☘️广东频道",茂名综合
 https://hls-gateway.vpstv.net/streams/708982.m3u8
+vpstv.net/streams/708982.m3u8
